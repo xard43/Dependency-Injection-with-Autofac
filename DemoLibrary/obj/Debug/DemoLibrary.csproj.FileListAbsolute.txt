@@ -1,0 +1,5 @@
+C:\Users\m.sanok\source\MojeRepo\Dependency-Injection-with-Autofac\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\m.sanok\source\MojeRepo\Dependency-Injection-with-Autofac\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\m.sanok\source\MojeRepo\Dependency-Injection-with-Autofac\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\m.sanok\source\MojeRepo\Dependency-Injection-with-Autofac\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\m.sanok\source\MojeRepo\Dependency-Injection-with-Autofac\DemoLibrary\obj\Debug\DemoLibrary.pdb
